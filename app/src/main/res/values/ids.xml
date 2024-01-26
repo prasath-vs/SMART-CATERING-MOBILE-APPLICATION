@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="userName" type="id" />
+    <item name="eventName" type="id" />
+    <item name="numberOfPeople" type="id" />
+</resources>
